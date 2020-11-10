@@ -1,3 +1,4 @@
 *.log
 log.json
-usersAndpasswords.txt
+elasticsearch_logs/usersAndpasswords.txt
+elasticsearch_logstash/usersAndpasswords.txt
